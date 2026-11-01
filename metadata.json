@@ -1,0 +1,6 @@
+{
+  "name": "UI Studio Core",
+  "description": "Phase 0 foundation for an AI-assisted UI designer with serializable component tree, HTML renderer, atomic EditOps, validator, and full-document HTML/PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UI Studio Core</string>
+    <string name="debug_workbench_title">UI Studio Phase 0</string>
+    <string name="mode_edit">Edit</string>
+    <string name="mode_preview">Preview</string>
+    <string name="tab_canvas">Canvas</string>
+    <string name="tab_html">HTML</string>
+    <string name="tab_json">Raw JSON</string>
+    <string name="tab_prompt_tools">Prompt &amp; Tools</string>
+    <string name="btn_add_button">Add Button</string>
+    <string name="btn_update_text">Update Text</string>
+    <string name="btn_delete_node">Delete Node</string>
+    <string name="btn_add_tall_content">Add Tall Content</string>
+    <string name="btn_ai_tree">AI: 3-Level Tree</string>
+    <string name="btn_ai_fallback">AI: Text JSON</string>
+    <string name="btn_undo">Undo</string>
+    <string name="btn_redo">Redo</string>
+    <string name="btn_validate">Validate</string>
+    <string name="btn_test_invalid">Test Unknown Type</string>
+    <string name="btn_reset_sample">Reset Login</string>
+    <string name="btn_export_html">Export HTML</string>
+    <string name="btn_export_png">Export PNG</string>
+    <string name="btn_export_both">Export Both (.zip)</string>
+    <string name="toggle_scrollable">Scrollable</string>
+</resources>
